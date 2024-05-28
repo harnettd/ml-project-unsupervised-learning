@@ -1,5 +1,6 @@
 *.docx
 *.xlsx
 
+.ipynb_checkpoints/
 __pycache__/
 scratch/
