@@ -1,7 +1,7 @@
 # Machine Learning Project: Unsupervised Learning
 
 ## Project Description:
-In this project, I appled unsupervised learning techniques to a real-world dataset,
+In this project, I applied unsupervised learning techniques to a real-world dataset,
 and I used data visualizations to communicate some insights gained from the analysis.
 
 The dataset for this project is the "Wholesale Data" dataset containing information 
